@@ -6,6 +6,8 @@
 
 Видео - ссылками ниже. Где-то еще не опубликованы в публичный доступ, тогда ссылка на сайт конференции.
 
+- Yoomoney Питоняшки 2025. Кодогенерация: как компьютеры учатся писать код за нас - https://events.yoomoney.ru/python-2025
+
 - DUMP Ekb 2025 - https://dump-ekb.ru/triggery-baz-dannyh-kak-perestat-boyatsya, запись: https://www.youtube.com/watch?v=I0b_d92xCWQ&list=PLRdS-n5seLRp_3XaMhpLUCvcFHX8HqGEQ
 
 - Python NN MeetUP 2024 Ноябрь - https://it52.info/events/2024-11-22-pythonn-mitap-pitonistov-22-11
