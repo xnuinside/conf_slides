@@ -14,7 +14,7 @@
 
 - DevoOps 2024 - Уязвимости, как потоки данных https://devoops.ru/talks/219f27793d084214a87ae697e97d21a9/?referer=/en/schedule/today/?now=
 
-- PiterPy 2024 - https://piterpy.com/talks/2b29b9b454c5419c9c74e08bb18e7286/?referer=%2Fschedule%2Fdays%2F 
+- PiterPy 2024 - https://piterpy.com/talks/2b29b9b454c5419c9c74e08bb18e7286/?referer=%2Fschedule%2Fdays%2F, Видеозапись: https://www.youtube.com/watch?v=AmlazT5S2mk&t=9s&ab_channel=PiterPy
 
 - PyconRU 2024 - Память, данные, python - https://pycon.ru/pamyat-dannye-python
 
