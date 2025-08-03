@@ -6,7 +6,7 @@
 
 Видео - ссылками ниже. Где-то еще не опубликованы в публичный доступ, тогда ссылка на сайт конференции.
 
-- Yoomoney Питоняшки 2025. Кодогенерация: как компьютеры учатся писать код за нас - https://events.yoomoney.ru/python-2025
+- Yoomoney Питоняшки 2025. Кодогенерация: как компьютеры учатся писать код за нас - https://events.yoomoney.ru/python-2025, запись: https://www.youtube.com/watch?v=scD3qcmptVs&list=PLIZR3nsCfy8-XbaDuUXYPAEGjFfhZwGtK&index=3&ab_channel=%D0%AEMoney
 
 - DUMP Ekb 2025 - https://dump-ekb.ru/triggery-baz-dannyh-kak-perestat-boyatsya, запись: https://www.youtube.com/watch?v=I0b_d92xCWQ&list=PLRdS-n5seLRp_3XaMhpLUCvcFHX8HqGEQ
 
